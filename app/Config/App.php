@@ -25,7 +25,7 @@ class App extends BaseConfig
      * E.g.,
      * When your site URL ($baseURL) is 'http://example.com/', and your site
      * also accepts 'http://media.example.com/' and 'http://accounts.example.com/':
-     *     ['media.example.com', 'accounts.example.com']
+     *     ['media.example.com', 'accounts.example.com'] jh
      *
      * @var list<string>
      */
